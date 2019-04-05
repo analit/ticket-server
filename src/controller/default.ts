@@ -1,7 +1,7 @@
 import { Request, Response } from "express";
 import { IRequestBody, IResponseBody } from "../interfaces";
 import { default as Ticket, TicketModel } from "../model/ticket";
-import { ticketStatus } from "../../constants";
+import { ticketStatus } from "../constants";
 
 export let index = (req: Request, res: Response) => {
     const requestBody = <IRequestBody>req.body;
