@@ -26,4 +26,3 @@ mongoose_1.default.connect(mongoUrl, { useNewUrlParser: true }).catch(err => {
     process.exit(1);
 });
 exports.default = app;
-//# sourceMappingURL=app.js.map

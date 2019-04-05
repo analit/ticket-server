@@ -4,4 +4,3 @@ exports.ticketStatus = {
     NEW: "new",
     EXISTED: "existed"
 };
-//# sourceMappingURL=constants.js.map

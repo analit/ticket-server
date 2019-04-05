@@ -25,4 +25,3 @@ ticketSchema.methods.generate = function (prefix = 'L00M') {
 };
 exports.default = mongoose.model("Ticket", ticketSchema);
 // export const Ticket:TicketModel = mongoose.model( "Ticket", ticketSchema );
-//# sourceMappingURL=ticket.js.map

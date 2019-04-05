@@ -41,4 +41,3 @@ function generateTicket(bet) {
     const prefix = "LQU001";
     return (prefix + `f${(+new Date).toString(16)}`).toUpperCase();
 }
-//# sourceMappingURL=default.js.map
