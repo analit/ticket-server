@@ -15,7 +15,11 @@ export let index = (req: Request, res: Response) => {
     } )
 }
 
-function createSuccessResponse(status: string, ticket:TicketModel): IResponseBody {
+export let test = (req: Request, res: Response) => {
+    res.send( "It's worked!" );
+}
+
+function createSuccessResponse(status: string, ticket: TicketModel): IResponseBody {
 
     return {
         id: ticket._id,

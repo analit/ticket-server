@@ -7,6 +7,8 @@ const app = express();
 
 // Express configuration
 app.set( "port", process.env.PORT || 3000 );
+app.get("/",  defaultController.test);
+
 app.use( bodyParser.json() );
 app.post( "/", defaultController.index );
 

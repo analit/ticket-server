@@ -15,6 +15,9 @@ exports.index = (req, res) => {
         res.json(createSuccessResponse(constants_1.ticketStatus.NEW, ticket));
     });
 };
+exports.test = (req, res) => {
+    res.send("It's worked!");
+};
 function createSuccessResponse(status, ticket) {
     return {
         id: ticket._id,

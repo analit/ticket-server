@@ -17,6 +17,7 @@ const mongoose_1 = __importDefault(require("mongoose"));
 const app = express_1.default();
 // Express configuration
 app.set("port", process.env.PORT || 3000);
+app.get("/", defaultController.test);
 app.use(body_parser_1.default.json());
 app.post("/", defaultController.index);
 // Connect to MongoDB
