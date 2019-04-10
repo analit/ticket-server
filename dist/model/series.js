@@ -8,17 +8,9 @@ var __importStar = (this && this.__importStar) || function (mod) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 const mongoose = __importStar(require("mongoose"));
-const ticketSchema = new mongoose.Schema({
+const seriesSchema = new mongoose.Schema({
     _id: Number,
-    game: String,
-    date: Date,
-    round: Number,
-    number: String,
-    bet: Number,
-    win: Number,
-    cache: String
+    series: String,
+    total_count: Number
 });
-ticketSchema.methods.getCache = function () {
-    return JSON.parse(this.cache);
-};
-exports.default = mongoose.model("Ticket", ticketSchema);
+exports.default = mongoose.model("Series", seriesSchema);

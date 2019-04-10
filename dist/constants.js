@@ -1,6 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.ticketStatus = {
+const ticketStatus = {
     NEW: "new",
     EXISTED: "existed"
 };
+exports.ticketStatus = ticketStatus;

@@ -1,0 +1,2332 @@
+[
+    {
+        "series": "LAA001",
+        "_id": 1,
+        "total_count": 600000000
+    },
+    {
+        "series": "LAB001",
+        "_id": 2,
+        "total_count": 600000000
+    },
+    {
+        "series": "LAC001",
+        "_id": 3,
+        "total_count": 600000000
+    },
+    {
+        "series": "LAD001",
+        "_id": 4,
+        "total_count": 600000000
+    },
+    {
+        "series": "LAE001",
+        "_id": 5,
+        "total_count": 600000000
+    },
+    {
+        "series": "LAF001",
+        "_id": 6,
+        "total_count": 600000000
+    },
+    {
+        "series": "LAG001",
+        "_id": 7,
+        "total_count": 600000000
+    },
+    {
+        "series": "LAH001",
+        "_id": 8,
+        "total_count": 600000000
+    },
+    {
+        "series": "LAI001",
+        "_id": 9,
+        "total_count": 600000000
+    },
+    {
+        "series": "LAJ001",
+        "_id": 10,
+        "total_count": 600000000
+    },
+    {
+        "series": "LIJ001",
+        "_id": 11,
+        "total_count": 600000000
+    },
+    {
+        "series": "LAK001",
+        "_id": 12,
+        "total_count": 600000000
+    },
+    {
+        "series": "LIK001",
+        "_id": 13,
+        "total_count": 600000000
+    },
+    {
+        "series": "LAL001",
+        "_id": 14,
+        "total_count": 600000000
+    },
+    {
+        "series": "LAM001",
+        "_id": 15,
+        "total_count": 600000000
+    },
+    {
+        "series": "LAN001",
+        "_id": 16,
+        "total_count": 600000000
+    },
+    {
+        "series": "LIL001",
+        "_id": 17,
+        "total_count": 600000000
+    },
+    {
+        "series": "LAO001",
+        "_id": 18,
+        "total_count": 600000000
+    },
+    {
+        "series": "LIM001",
+        "_id": 19,
+        "total_count": 600000000
+    },
+    {
+        "series": "LAP001",
+        "_id": 20,
+        "total_count": 600000000
+    },
+    {
+        "series": "LAQ001",
+        "_id": 21,
+        "total_count": 600000000
+    },
+    {
+        "series": "LRG001",
+        "_id": 22,
+        "total_count": 600000000
+    },
+    {
+        "series": "LIO001",
+        "_id": 23,
+        "total_count": 600000000
+    },
+    {
+        "series": "LAR001",
+        "_id": 24,
+        "total_count": 600000000
+    },
+    {
+        "series": "LAS001",
+        "_id": 25,
+        "total_count": 600000000
+    },
+    {
+        "series": "LIP001",
+        "_id": 26,
+        "total_count": 600000000
+    },
+    {
+        "series": "LAT001",
+        "_id": 27,
+        "total_count": 600000000
+    },
+    {
+        "series": "LAU001",
+        "_id": 28,
+        "total_count": 600000000
+    },
+    {
+        "series": "LIQ001",
+        "_id": 29,
+        "total_count": 600000000
+    },
+    {
+        "series": "LAV001",
+        "_id": 30,
+        "total_count": 600000000
+    },
+    {
+        "series": "LIR001",
+        "_id": 31,
+        "total_count": 600000000
+    },
+    {
+        "series": "LIS001",
+        "_id": 32,
+        "total_count": 600000000
+    },
+    {
+        "series": "LIT001",
+        "_id": 33,
+        "total_count": 600000000
+    },
+    {
+        "series": "LIU001",
+        "_id": 34,
+        "total_count": 600000000
+    },
+    {
+        "series": "LAW001",
+        "_id": 35,
+        "total_count": 600000000
+    },
+    {
+        "series": "LAX001",
+        "_id": 36,
+        "total_count": 600000000
+    },
+    {
+        "series": "LIV001",
+        "_id": 37,
+        "total_count": 600000000
+    },
+    {
+        "series": "LIW001",
+        "_id": 38,
+        "total_count": 600000000
+    },
+    {
+        "series": "LIX001",
+        "_id": 39,
+        "total_count": 600000000
+    },
+    {
+        "series": "LAY001",
+        "_id": 40,
+        "total_count": 600000000
+    },
+    {
+        "series": "LOO001",
+        "_id": 41,
+        "total_count": 600000000
+    },
+    {
+        "series": "LAZ001",
+        "_id": 42,
+        "total_count": 600000000
+    },
+    {
+        "series": "LOP001",
+        "_id": 43,
+        "total_count": 600000000
+    },
+    {
+        "series": "LIY001",
+        "_id": 44,
+        "total_count": 600000000
+    },
+    {
+        "series": "LBA001",
+        "_id": 45,
+        "total_count": 600000000
+    },
+    {
+        "series": "LIZ001",
+        "_id": 46,
+        "total_count": 600000000
+    },
+    {
+        "series": "LOQ001",
+        "_id": 47,
+        "total_count": 600000000
+    },
+    {
+        "series": "LBB001",
+        "_id": 48,
+        "total_count": 600000000
+    },
+    {
+        "series": "LBC001",
+        "_id": 49,
+        "total_count": 600000000
+    },
+    {
+        "series": "LBD001",
+        "_id": 50,
+        "total_count": 600000000
+    },
+    {
+        "series": "LJA001",
+        "_id": 51,
+        "total_count": 600000000
+    },
+    {
+        "series": "LJB001",
+        "_id": 52,
+        "total_count": 600000000
+    },
+    {
+        "series": "LBE001",
+        "_id": 54,
+        "total_count": 600000000
+    },
+    {
+        "series": "LJC001",
+        "_id": 55,
+        "total_count": 600000000
+    },
+    {
+        "series": "LBF001",
+        "_id": 56,
+        "total_count": 600000000
+    },
+    {
+        "series": "LJD001",
+        "_id": 57,
+        "total_count": 600000000
+    },
+    {
+        "series": "LJE001",
+        "_id": 58,
+        "total_count": 600000000
+    },
+    {
+        "series": "LBG001",
+        "_id": 60,
+        "total_count": 600000000
+    },
+    {
+        "series": "LJF001",
+        "_id": 62,
+        "total_count": 600000000
+    },
+    {
+        "series": "LBH001",
+        "_id": 63,
+        "total_count": 600000000
+    },
+    {
+        "series": "LJG001",
+        "_id": 64,
+        "total_count": 600000000
+    },
+    {
+        "series": "LJH001",
+        "_id": 65,
+        "total_count": 600000000
+    },
+    {
+        "series": "LJI001",
+        "_id": 66,
+        "total_count": 600000000
+    },
+    {
+        "series": "LJJ001",
+        "_id": 68,
+        "total_count": 600000000
+    },
+    {
+        "series": "LJK001",
+        "_id": 69,
+        "total_count": 600000000
+    },
+    {
+        "series": "LBI001",
+        "_id": 70,
+        "total_count": 600000000
+    },
+    {
+        "series": "LBJ001",
+        "_id": 72,
+        "total_count": 600000000
+    },
+    {
+        "series": "LJL001",
+        "_id": 74,
+        "total_count": 600000000
+    },
+    {
+        "series": "LBK001",
+        "_id": 75,
+        "total_count": 600000000
+    },
+    {
+        "series": "LJM001",
+        "_id": 76,
+        "total_count": 600000000
+    },
+    {
+        "series": "LJN001",
+        "_id": 78,
+        "total_count": 600000000
+    },
+    {
+        "series": "LBL001",
+        "_id": 80,
+        "total_count": 600000000
+    },
+    {
+        "series": "LBM001",
+        "_id": 81,
+        "total_count": 600000000
+    },
+    {
+        "series": "LOR001",
+        "_id": 82,
+        "total_count": 600000000
+    },
+    {
+        "series": "LBN001",
+        "_id": 84,
+        "total_count": 600000000
+    },
+    {
+        "series": "LJO001",
+        "_id": 85,
+        "total_count": 600000000
+    },
+    {
+        "series": "LOS001",
+        "_id": 86,
+        "total_count": 600000000
+    },
+    {
+        "series": "LJP001",
+        "_id": 87,
+        "total_count": 600000000
+    },
+    {
+        "series": "LOT001",
+        "_id": 88,
+        "total_count": 600000000
+    },
+    {
+        "series": "LBO001",
+        "_id": 90,
+        "total_count": 600000000
+    },
+    {
+        "series": "LOU001",
+        "_id": 92,
+        "total_count": 600000000
+    },
+    {
+        "series": "LJQ001",
+        "_id": 93,
+        "total_count": 600000000
+    },
+    {
+        "series": "LOV001",
+        "_id": 94,
+        "total_count": 600000000
+    },
+    {
+        "series": "LJR001",
+        "_id": 95,
+        "total_count": 600000000
+    },
+    {
+        "series": "LJS001",
+        "_id": 96,
+        "total_count": 600000000
+    },
+    {
+        "series": "LBP001",
+        "_id": 98,
+        "total_count": 600000000
+    },
+    {
+        "series": "LJT001",
+        "_id": 99,
+        "total_count": 600000000
+    },
+    {
+        "series": "LBQ001",
+        "_id": 100,
+        "total_count": 600000000
+    },
+    {
+        "series": "LJU001",
+        "_id": 102,
+        "total_count": 600000000
+    },
+    {
+        "series": "LBR001",
+        "_id": 105,
+        "total_count": 600000000
+    },
+    {
+        "series": "LBS001",
+        "_id": 108,
+        "total_count": 600000000
+    },
+    {
+        "series": "LJV001",
+        "_id": 110,
+        "total_count": 600000000
+    },
+    {
+        "series": "LJW001",
+        "_id": 111,
+        "total_count": 600000000
+    },
+    {
+        "series": "LBT001",
+        "_id": 112,
+        "total_count": 600000000
+    },
+    {
+        "series": "LJX001",
+        "_id": 114,
+        "total_count": 600000000
+    },
+    {
+        "series": "LJY001",
+        "_id": 115,
+        "total_count": 600000000
+    },
+    {
+        "series": "LJZ001",
+        "_id": 117,
+        "total_count": 600000000
+    },
+    {
+        "series": "LBU001",
+        "_id": 120,
+        "total_count": 600000000
+    },
+    {
+        "series": "LOW001",
+        "_id": 123,
+        "total_count": 600000000
+    },
+    {
+        "series": "LBV001",
+        "_id": 125,
+        "total_count": 600000000
+    },
+    {
+        "series": "LBW001",
+        "_id": 126,
+        "total_count": 600000000
+    },
+    {
+        "series": "LOX001",
+        "_id": 129,
+        "total_count": 600000000
+    },
+    {
+        "series": "LKA001",
+        "_id": 130,
+        "total_count": 600000000
+    },
+    {
+        "series": "LOY001",
+        "_id": 132,
+        "total_count": 600000000
+    },
+    {
+        "series": "LBX001",
+        "_id": 135,
+        "total_count": 600000000
+    },
+    {
+        "series": "LOZ001",
+        "_id": 138,
+        "total_count": 600000000
+    },
+    {
+        "series": "LBY001",
+        "_id": 140,
+        "total_count": 600000000
+    },
+    {
+        "series": "LPA001",
+        "_id": 141,
+        "total_count": 600000000
+    },
+    {
+        "series": "LBZ001",
+        "_id": 144,
+        "total_count": 600000000
+    },
+    {
+        "series": "LKB001",
+        "_id": 145,
+        "total_count": 600000000
+    },
+    {
+        "series": "LPB001",
+        "_id": 147,
+        "total_count": 600000000
+    },
+    {
+        "series": "LCA001",
+        "_id": 150,
+        "total_count": 600000000
+    },
+    {
+        "series": "LKC001",
+        "_id": 155,
+        "total_count": 600000000
+    },
+    {
+        "series": "LCB001",
+        "_id": 160,
+        "total_count": 600000000
+    },
+    {
+        "series": "LCC001",
+        "_id": 162,
+        "total_count": 600000000
+    },
+    {
+        "series": "LKD001",
+        "_id": 165,
+        "total_count": 600000000
+    },
+    {
+        "series": "LKE001",
+        "_id": 170,
+        "total_count": 600000000
+    },
+    {
+        "series": "LCD001",
+        "_id": 175,
+        "total_count": 600000000
+    },
+    {
+        "series": "LCE001",
+        "_id": 180,
+        "total_count": 600000000
+    },
+    {
+        "series": "LKF001",
+        "_id": 185,
+        "total_count": 600000000
+    },
+    {
+        "series": "LKG001",
+        "_id": 190,
+        "total_count": 600000000
+    },
+    {
+        "series": "LKH001",
+        "_id": 195,
+        "total_count": 600000000
+    },
+    {
+        "series": "LCF001",
+        "_id": 200,
+        "total_count": 600000000
+    },
+    {
+        "series": "LPC001",
+        "_id": 205,
+        "total_count": 600000000
+    },
+    {
+        "series": "LCG001",
+        "_id": 210,
+        "total_count": 600000000
+    },
+    {
+        "series": "LPD001",
+        "_id": 215,
+        "total_count": 600000000
+    },
+    {
+        "series": "LKI001",
+        "_id": 220,
+        "total_count": 600000000
+    },
+    {
+        "series": "LCH001",
+        "_id": 225,
+        "total_count": 600000000
+    },
+    {
+        "series": "LKJ001",
+        "_id": 230,
+        "total_count": 600000000
+    },
+    {
+        "series": "LPE001",
+        "_id": 235,
+        "total_count": 600000000
+    },
+    {
+        "series": "LCI001",
+        "_id": 240,
+        "total_count": 600000000
+    },
+    {
+        "series": "LCJ001",
+        "_id": 245,
+        "total_count": 600000000
+    },
+    {
+        "series": "LCK001",
+        "_id": 250,
+        "total_count": 600000000
+    },
+    {
+        "series": "LKK001",
+        "_id": 260,
+        "total_count": 600000000
+    },
+    {
+        "series": "LCL001",
+        "_id": 270,
+        "total_count": 600000000
+    },
+    {
+        "series": "LCM001",
+        "_id": 280,
+        "total_count": 600000000
+    },
+    {
+        "series": "LKL001",
+        "_id": 290,
+        "total_count": 600000000
+    },
+    {
+        "series": "LCN001",
+        "_id": 300,
+        "total_count": 600000000
+    },
+    {
+        "series": "LKM001",
+        "_id": 310,
+        "total_count": 600000000
+    },
+    {
+        "series": "LCO001",
+        "_id": 315,
+        "total_count": 600000000
+    },
+    {
+        "series": "LCP001",
+        "_id": 320,
+        "total_count": 600000000
+    },
+    {
+        "series": "LKN001",
+        "_id": 330,
+        "total_count": 600000000
+    },
+    {
+        "series": "LKO001",
+        "_id": 340,
+        "total_count": 600000000
+    },
+    {
+        "series": "LCQ001",
+        "_id": 350,
+        "total_count": 600000000
+    },
+    {
+        "series": "LCR001",
+        "_id": 360,
+        "total_count": 600000000
+    },
+    {
+        "series": "LKP001",
+        "_id": 370,
+        "total_count": 600000000
+    },
+    {
+        "series": "LCS001",
+        "_id": 375,
+        "total_count": 600000000
+    },
+    {
+        "series": "LKQ001",
+        "_id": 380,
+        "total_count": 600000000
+    },
+    {
+        "series": "LKR001",
+        "_id": 390,
+        "total_count": 600000000
+    },
+    {
+        "series": "LCT001",
+        "_id": 400,
+        "total_count": 600000000
+    },
+    {
+        "series": "LCU001",
+        "_id": 405,
+        "total_count": 600000000
+    },
+    {
+        "series": "LPF001",
+        "_id": 410,
+        "total_count": 600000000
+    },
+    {
+        "series": "LCV001",
+        "_id": 420,
+        "total_count": 600000000
+    },
+    {
+        "series": "LPG001",
+        "_id": 430,
+        "total_count": 600000000
+    },
+    {
+        "series": "LKS001",
+        "_id": 440,
+        "total_count": 600000000
+    },
+    {
+        "series": "LCW001",
+        "_id": 450,
+        "total_count": 600000000
+    },
+    {
+        "series": "LKT001",
+        "_id": 460,
+        "total_count": 600000000
+    },
+    {
+        "series": "LPH001",
+        "_id": 470,
+        "total_count": 600000000
+    },
+    {
+        "series": "LCX001",
+        "_id": 480,
+        "total_count": 600000000
+    },
+    {
+        "series": "LCY001",
+        "_id": 490,
+        "total_count": 600000000
+    },
+    {
+        "series": "LCZ001",
+        "_id": 500,
+        "total_count": 600000000
+    },
+    {
+        "series": "LKU001",
+        "_id": 510,
+        "total_count": 600000000
+    },
+    {
+        "series": "LKV001",
+        "_id": 520,
+        "total_count": 600000000
+    },
+    {
+        "series": "LDA001",
+        "_id": 525,
+        "total_count": 600000000
+    },
+    {
+        "series": "LDB001",
+        "_id": 540,
+        "total_count": 600000000
+    },
+    {
+        "series": "LKW001",
+        "_id": 550,
+        "total_count": 600000000
+    },
+    {
+        "series": "LDC001",
+        "_id": 560,
+        "total_count": 600000000
+    },
+    {
+        "series": "LKX001",
+        "_id": 570,
+        "total_count": 600000000
+    },
+    {
+        "series": "LKY001",
+        "_id": 580,
+        "total_count": 600000000
+    },
+    {
+        "series": "LDD001",
+        "_id": 600,
+        "total_count": 600000000
+    },
+    {
+        "series": "LKZ001",
+        "_id": 620,
+        "total_count": 600000000
+    },
+    {
+        "series": "LDE001",
+        "_id": 625,
+        "total_count": 600000000
+    },
+    {
+        "series": "LDF001",
+        "_id": 630,
+        "total_count": 600000000
+    },
+    {
+        "series": "LDG001",
+        "_id": 640,
+        "total_count": 600000000
+    },
+    {
+        "series": "LLA001",
+        "_id": 650,
+        "total_count": 600000000
+    },
+    {
+        "series": "LLB001",
+        "_id": 660,
+        "total_count": 600000000
+    },
+    {
+        "series": "LDH001",
+        "_id": 675,
+        "total_count": 600000000
+    },
+    {
+        "series": "LLC001",
+        "_id": 680,
+        "total_count": 600000000
+    },
+    {
+        "series": "LLD001",
+        "_id": 690,
+        "total_count": 600000000
+    },
+    {
+        "series": "LDI001",
+        "_id": 700,
+        "total_count": 600000000
+    },
+    {
+        "series": "LDJ001",
+        "_id": 720,
+        "total_count": 600000000
+    },
+    {
+        "series": "LLE001",
+        "_id": 740,
+        "total_count": 600000000
+    },
+    {
+        "series": "LDK001",
+        "_id": 750,
+        "total_count": 600000000
+    },
+    {
+        "series": "LLF001",
+        "_id": 760,
+        "total_count": 600000000
+    },
+    {
+        "series": "LLG001",
+        "_id": 780,
+        "total_count": 600000000
+    },
+    {
+        "series": "LDL001",
+        "_id": 800,
+        "total_count": 600000000
+    },
+    {
+        "series": "LDM001",
+        "_id": 810,
+        "total_count": 600000000
+    },
+    {
+        "series": "LPI001",
+        "_id": 820,
+        "total_count": 600000000
+    },
+    {
+        "series": "LDN001",
+        "_id": 840,
+        "total_count": 600000000
+    },
+    {
+        "series": "LLH001",
+        "_id": 850,
+        "total_count": 600000000
+    },
+    {
+        "series": "LPJ001",
+        "_id": 860,
+        "total_count": 600000000
+    },
+    {
+        "series": "LLI001",
+        "_id": 870,
+        "total_count": 600000000
+    },
+    {
+        "series": "LDO001",
+        "_id": 875,
+        "total_count": 600000000
+    },
+    {
+        "series": "LPK001",
+        "_id": 880,
+        "total_count": 600000000
+    },
+    {
+        "series": "LDP001",
+        "_id": 900,
+        "total_count": 600000000
+    },
+    {
+        "series": "LPL001",
+        "_id": 920,
+        "total_count": 600000000
+    },
+    {
+        "series": "LLJ001",
+        "_id": 930,
+        "total_count": 600000000
+    },
+    {
+        "series": "LPM001",
+        "_id": 940,
+        "total_count": 600000000
+    },
+    {
+        "series": "LLK001",
+        "_id": 950,
+        "total_count": 600000000
+    },
+    {
+        "series": "LLL001",
+        "_id": 960,
+        "total_count": 600000000
+    },
+    {
+        "series": "LDQ001",
+        "_id": 980,
+        "total_count": 600000000
+    },
+    {
+        "series": "LLM001",
+        "_id": 990,
+        "total_count": 600000000
+    },
+    {
+        "series": "LDR001",
+        "_id": 1000,
+        "total_count": 600000000
+    },
+    {
+        "series": "LLN001",
+        "_id": 1020,
+        "total_count": 500000000
+    },
+    {
+        "series": "LDS001",
+        "_id": 1050,
+        "total_count": 500000000
+    },
+    {
+        "series": "LDT001",
+        "_id": 1080,
+        "total_count": 500000000
+    },
+    {
+        "series": "LLO001",
+        "_id": 1100,
+        "total_count": 500000000
+    },
+    {
+        "series": "LLP001",
+        "_id": 1110,
+        "total_count": 500000000
+    },
+    {
+        "series": "LDU001",
+        "_id": 1120,
+        "total_count": 500000000
+    },
+    {
+        "series": "LDV001",
+        "_id": 1125,
+        "total_count": 500000000
+    },
+    {
+        "series": "LLQ001",
+        "_id": 1140,
+        "total_count": 500000000
+    },
+    {
+        "series": "LLR001",
+        "_id": 1150,
+        "total_count": 500000000
+    },
+    {
+        "series": "LLS001",
+        "_id": 1170,
+        "total_count": 500000000
+    },
+    {
+        "series": "LDW001",
+        "_id": 1200,
+        "total_count": 500000000
+    },
+    {
+        "series": "LPN001",
+        "_id": 1230,
+        "total_count": 500000000
+    },
+    {
+        "series": "LDX001",
+        "_id": 1250,
+        "total_count": 500000000
+    },
+    {
+        "series": "LDY001",
+        "_id": 1260,
+        "total_count": 500000000
+    },
+    {
+        "series": "LPO001",
+        "_id": 1290,
+        "total_count": 500000000
+    },
+    {
+        "series": "LLT001",
+        "_id": 1300,
+        "total_count": 500000000
+    },
+    {
+        "series": "LPP001",
+        "_id": 1320,
+        "total_count": 500000000
+    },
+    {
+        "series": "LDZ001",
+        "_id": 1350,
+        "total_count": 500000000
+    },
+    {
+        "series": "LPQ001",
+        "_id": 1380,
+        "total_count": 500000000
+    },
+    {
+        "series": "LEA001",
+        "_id": 1400,
+        "total_count": 500000000
+    },
+    {
+        "series": "LPR001",
+        "_id": 1410,
+        "total_count": 500000000
+    },
+    {
+        "series": "LEB001",
+        "_id": 1440,
+        "total_count": 500000000
+    },
+    {
+        "series": "LLU001",
+        "_id": 1450,
+        "total_count": 500000000
+    },
+    {
+        "series": "LPS001",
+        "_id": 1470,
+        "total_count": 500000000
+    },
+    {
+        "series": "LEC001",
+        "_id": 1500,
+        "total_count": 500000000
+    },
+    {
+        "series": "LLV001",
+        "_id": 1550,
+        "total_count": 500000000
+    },
+    {
+        "series": "LED001",
+        "_id": 1600,
+        "total_count": 500000000
+    },
+    {
+        "series": "LEE001",
+        "_id": 1620,
+        "total_count": 500000000
+    },
+    {
+        "series": "LLW001",
+        "_id": 1650,
+        "total_count": 500000000
+    },
+    {
+        "series": "LQV001",
+        "_id": 1680,
+        "total_count": 500000000
+    },
+    {
+        "series": "LLX001",
+        "_id": 1700,
+        "total_count": 500000000
+    },
+    {
+        "series": "LEF001",
+        "_id": 1750,
+        "total_count": 500000000
+    },
+    {
+        "series": "LEG001",
+        "_id": 1800,
+        "total_count": 500000000
+    },
+    {
+        "series": "LLY001",
+        "_id": 1850,
+        "total_count": 500000000
+    },
+    {
+        "series": "LEH001",
+        "_id": 1875,
+        "total_count": 500000000
+    },
+    {
+        "series": "LLZ001",
+        "_id": 1900,
+        "total_count": 500000000
+    },
+    {
+        "series": "LMA001",
+        "_id": 1950,
+        "total_count": 500000000
+    },
+    {
+        "series": "LEI001",
+        "_id": 2000,
+        "total_count": 500000000
+    },
+    {
+        "series": "LPT001",
+        "_id": 2050,
+        "total_count": 400000000
+    },
+    {
+        "series": "LEJ001",
+        "_id": 2100,
+        "total_count": 400000000
+    },
+    {
+        "series": "LPU001",
+        "_id": 2150,
+        "total_count": 400000000
+    },
+    {
+        "series": "LQW001",
+        "_id": 2160,
+        "total_count": 400000000
+    },
+    {
+        "series": "LMB001",
+        "_id": 2200,
+        "total_count": 400000000
+    },
+    {
+        "series": "LEK001",
+        "_id": 2250,
+        "total_count": 400000000
+    },
+    {
+        "series": "LMC001",
+        "_id": 2300,
+        "total_count": 400000000
+    },
+    {
+        "series": "LPV001",
+        "_id": 2350,
+        "total_count": 400000000
+    },
+    {
+        "series": "LEL001",
+        "_id": 2400,
+        "total_count": 400000000
+    },
+    {
+        "series": "LEM001",
+        "_id": 2450,
+        "total_count": 400000000
+    },
+    {
+        "series": "LEN001",
+        "_id": 2500,
+        "total_count": 400000000
+    },
+    {
+        "series": "LQX001",
+        "_id": 2520,
+        "total_count": 400000000
+    },
+    {
+        "series": "LMD001",
+        "_id": 2600,
+        "total_count": 400000000
+    },
+    {
+        "series": "LRU001",
+        "_id": 2640,
+        "total_count": 400000000
+    },
+    {
+        "series": "LEO001",
+        "_id": 2700,
+        "total_count": 400000000
+    },
+    {
+        "series": "LEP001",
+        "_id": 2800,
+        "total_count": 400000000
+    },
+    {
+        "series": "LME001",
+        "_id": 2900,
+        "total_count": 400000000
+    },
+    {
+        "series": "LQY001",
+        "_id": 2940,
+        "total_count": 400000000
+    },
+    {
+        "series": "LEQ001",
+        "_id": 3000,
+        "total_count": 400000000
+    },
+    {
+        "series": "LMF001",
+        "_id": 3100,
+        "total_count": 300000000
+    },
+    {
+        "series": "LER001",
+        "_id": 3125,
+        "total_count": 300000000
+    },
+    {
+        "series": "LES001",
+        "_id": 3150,
+        "total_count": 300000000
+    },
+    {
+        "series": "LET001",
+        "_id": 3200,
+        "total_count": 300000000
+    },
+    {
+        "series": "LQZ001",
+        "_id": 3240,
+        "total_count": 300000000
+    },
+    {
+        "series": "LMG001",
+        "_id": 3300,
+        "total_count": 300000000
+    },
+    {
+        "series": "LRA001",
+        "_id": 3360,
+        "total_count": 300000000
+    },
+    {
+        "series": "LMH001",
+        "_id": 3400,
+        "total_count": 300000000
+    },
+    {
+        "series": "LEU001",
+        "_id": 3500,
+        "total_count": 300000000
+    },
+    {
+        "series": "LEV001",
+        "_id": 3600,
+        "total_count": 300000000
+    },
+    {
+        "series": "LMI001",
+        "_id": 3700,
+        "total_count": 300000000
+    },
+    {
+        "series": "LEW001",
+        "_id": 3750,
+        "total_count": 300000000
+    },
+    {
+        "series": "LRB001",
+        "_id": 3780,
+        "total_count": 200000000
+    },
+    {
+        "series": "LMJ001",
+        "_id": 3800,
+        "total_count": 200000000
+    },
+    {
+        "series": "LMK001",
+        "_id": 3900,
+        "total_count": 200000000
+    },
+    {
+        "series": "LEX001",
+        "_id": 4000,
+        "total_count": 200000000
+    },
+    {
+        "series": "LEY001",
+        "_id": 4050,
+        "total_count": 200000000
+    },
+    {
+        "series": "LPW001",
+        "_id": 4100,
+        "total_count": 200000000
+    },
+    {
+        "series": "LEZ001",
+        "_id": 4200,
+        "total_count": 200000000
+    },
+    {
+        "series": "LPX001",
+        "_id": 4300,
+        "total_count": 200000000
+    },
+    {
+        "series": "LRC001",
+        "_id": 4320,
+        "total_count": 200000000
+    },
+    {
+        "series": "LML001",
+        "_id": 4400,
+        "total_count": 200000000
+    },
+    {
+        "series": "LFA001",
+        "_id": 4500,
+        "total_count": 200000000
+    },
+    {
+        "series": "LMM001",
+        "_id": 4600,
+        "total_count": 200000000
+    },
+    {
+        "series": "LPY001",
+        "_id": 4700,
+        "total_count": 200000000
+    },
+    {
+        "series": "LFB001",
+        "_id": 4800,
+        "total_count": 200000000
+    },
+    {
+        "series": "LFC001",
+        "_id": 4900,
+        "total_count": 200000000
+    },
+    {
+        "series": "LFD001",
+        "_id": 5000,
+        "total_count": 200000000
+    },
+    {
+        "series": "LMN001",
+        "_id": 5100,
+        "total_count": 200000000
+    },
+    {
+        "series": "LMO001",
+        "_id": 5200,
+        "total_count": 200000000
+    },
+    {
+        "series": "LFE001",
+        "_id": 5250,
+        "total_count": 200000000
+    },
+    {
+        "series": "LRV001",
+        "_id": 5280,
+        "total_count": 200000000
+    },
+    {
+        "series": "LFF001",
+        "_id": 5400,
+        "total_count": 200000000
+    },
+    {
+        "series": "LMP001",
+        "_id": 5500,
+        "total_count": 200000000
+    },
+    {
+        "series": "LFG001",
+        "_id": 5600,
+        "total_count": 200000000
+    },
+    {
+        "series": "LMQ001",
+        "_id": 5700,
+        "total_count": 200000000
+    },
+    {
+        "series": "LMR001",
+        "_id": 5800,
+        "total_count": 200000000
+    },
+    {
+        "series": "LFH001",
+        "_id": 6000,
+        "total_count": 200000000
+    },
+    {
+        "series": "LMS001",
+        "_id": 6200,
+        "total_count": 100000000
+    },
+    {
+        "series": "LFI001",
+        "_id": 6250,
+        "total_count": 100000000
+    },
+    {
+        "series": "LFJ001",
+        "_id": 6300,
+        "total_count": 100000000
+    },
+    {
+        "series": "LFK001",
+        "_id": 6400,
+        "total_count": 100000000
+    },
+    {
+        "series": "LMT001",
+        "_id": 6500,
+        "total_count": 100000000
+    },
+    {
+        "series": "LMU001",
+        "_id": 6600,
+        "total_count": 100000000
+    },
+    {
+        "series": "LFL001",
+        "_id": 6750,
+        "total_count": 100000000
+    },
+    {
+        "series": "LMV001",
+        "_id": 6800,
+        "total_count": 100000000
+    },
+    {
+        "series": "LMW001",
+        "_id": 6900,
+        "total_count": 100000000
+    },
+    {
+        "series": "LFM001",
+        "_id": 7000,
+        "total_count": 100000000
+    },
+    {
+        "series": "LFN001",
+        "_id": 7200,
+        "total_count": 100000000
+    },
+    {
+        "series": "LMX001",
+        "_id": 7400,
+        "total_count": 100000000
+    },
+    {
+        "series": "LFO001",
+        "_id": 7500,
+        "total_count": 100000000
+    },
+    {
+        "series": "LMY001",
+        "_id": 7600,
+        "total_count": 100000000
+    },
+    {
+        "series": "LMZ001",
+        "_id": 7800,
+        "total_count": 100000000
+    },
+    {
+        "series": "LFP001",
+        "_id": 8000,
+        "total_count": 100000000
+    },
+    {
+        "series": "LFQ001",
+        "_id": 8100,
+        "total_count": 50000000
+    },
+    {
+        "series": "LPZ001",
+        "_id": 8200,
+        "total_count": 50000000
+    },
+    {
+        "series": "LFR001",
+        "_id": 8400,
+        "total_count": 50000000
+    },
+    {
+        "series": "LNA001",
+        "_id": 8500,
+        "total_count": 50000000
+    },
+    {
+        "series": "LQA001",
+        "_id": 8600,
+        "total_count": 50000000
+    },
+    {
+        "series": "LNB001",
+        "_id": 8700,
+        "total_count": 50000000
+    },
+    {
+        "series": "LFS001",
+        "_id": 8750,
+        "total_count": 50000000
+    },
+    {
+        "series": "LQB001",
+        "_id": 8800,
+        "total_count": 50000000
+    },
+    {
+        "series": "LFT001",
+        "_id": 9000,
+        "total_count": 50000000
+    },
+    {
+        "series": "LQC001",
+        "_id": 9200,
+        "total_count": 50000000
+    },
+    {
+        "series": "LNC001",
+        "_id": 9300,
+        "total_count": 50000000
+    },
+    {
+        "series": "LQD001",
+        "_id": 9400,
+        "total_count": 50000000
+    },
+    {
+        "series": "LND001",
+        "_id": 9500,
+        "total_count": 50000000
+    },
+    {
+        "series": "LNE001",
+        "_id": 9600,
+        "total_count": 50000000
+    },
+    {
+        "series": "LFU001",
+        "_id": 9800,
+        "total_count": 50000000
+    },
+    {
+        "series": "LNF001",
+        "_id": 9900,
+        "total_count": 50000000
+    },
+    {
+        "series": "LFV001",
+        "_id": 10000,
+        "total_count": 50000000
+    },
+    {
+        "series": "LNG001",
+        "_id": 10200,
+        "total_count": 40000000
+    },
+    {
+        "series": "LFW001",
+        "_id": 10500,
+        "total_count": 40000000
+    },
+    {
+        "series": "LFX001",
+        "_id": 10800,
+        "total_count": 40000000
+    },
+    {
+        "series": "LNH001",
+        "_id": 11000,
+        "total_count": 40000000
+    },
+    {
+        "series": "LNI001",
+        "_id": 11100,
+        "total_count": 40000000
+    },
+    {
+        "series": "LFY001",
+        "_id": 11200,
+        "total_count": 40000000
+    },
+    {
+        "series": "LFZ001",
+        "_id": 11250,
+        "total_count": 40000000
+    },
+    {
+        "series": "LNJ001",
+        "_id": 11400,
+        "total_count": 40000000
+    },
+    {
+        "series": "LNK001",
+        "_id": 11500,
+        "total_count": 40000000
+    },
+    {
+        "series": "LNL001",
+        "_id": 11700,
+        "total_count": 40000000
+    },
+    {
+        "series": "LGA001",
+        "_id": 12000,
+        "total_count": 40000000
+    },
+    {
+        "series": "LQE001",
+        "_id": 12300,
+        "total_count": 30000000
+    },
+    {
+        "series": "LGB001",
+        "_id": 12500,
+        "total_count": 30000000
+    },
+    {
+        "series": "LGC001",
+        "_id": 12600,
+        "total_count": 30000000
+    },
+    {
+        "series": "LQF001",
+        "_id": 12900,
+        "total_count": 30000000
+    },
+    {
+        "series": "LNM001",
+        "_id": 13000,
+        "total_count": 30000000
+    },
+    {
+        "series": "LQG001",
+        "_id": 13200,
+        "total_count": 30000000
+    },
+    {
+        "series": "LGD001",
+        "_id": 13500,
+        "total_count": 30000000
+    },
+    {
+        "series": "LQH001",
+        "_id": 13800,
+        "total_count": 30000000
+    },
+    {
+        "series": "LGE001",
+        "_id": 14000,
+        "total_count": 30000000
+    },
+    {
+        "series": "LQI001",
+        "_id": 14100,
+        "total_count": 30000000
+    },
+    {
+        "series": "LGF001",
+        "_id": 14400,
+        "total_count": 30000000
+    },
+    {
+        "series": "LNN001",
+        "_id": 14500,
+        "total_count": 30000000
+    },
+    {
+        "series": "LGG001",
+        "_id": 14700,
+        "total_count": 30000000
+    },
+    {
+        "series": "LGH001",
+        "_id": 15000,
+        "total_count": 30000000
+    },
+    {
+        "series": "LNO001",
+        "_id": 15500,
+        "total_count": 30000000
+    },
+    {
+        "series": "LGI001",
+        "_id": 16000,
+        "total_count": 30000000
+    },
+    {
+        "series": "LGJ001",
+        "_id": 16200,
+        "total_count": 20000000
+    },
+    {
+        "series": "LNP001",
+        "_id": 16500,
+        "total_count": 20000000
+    },
+    {
+        "series": "LGK001",
+        "_id": 16800,
+        "total_count": 20000000
+    },
+    {
+        "series": "LNQ001",
+        "_id": 17000,
+        "total_count": 20000000
+    },
+    {
+        "series": "LGL001",
+        "_id": 17500,
+        "total_count": 20000000
+    },
+    {
+        "series": "LRW001",
+        "_id": 17600,
+        "total_count": 20000000
+    },
+    {
+        "series": "LGM001",
+        "_id": 18000,
+        "total_count": 20000000
+    },
+    {
+        "series": "LNR001",
+        "_id": 18500,
+        "total_count": 20000000
+    },
+    {
+        "series": "LGN001",
+        "_id": 18750,
+        "total_count": 20000000
+    },
+    {
+        "series": "LGO001",
+        "_id": 18900,
+        "total_count": 20000000
+    },
+    {
+        "series": "LNS001",
+        "_id": 19000,
+        "total_count": 20000000
+    },
+    {
+        "series": "LNT001",
+        "_id": 19500,
+        "total_count": 20000000
+    },
+    {
+        "series": "LGP001",
+        "_id": 20000,
+        "total_count": 20000000
+    },
+    {
+        "series": "LQJ001",
+        "_id": 20500,
+        "total_count": 50000000
+    },
+    {
+        "series": "LGQ001",
+        "_id": 21000,
+        "total_count": 50000000
+    },
+    {
+        "series": "LQK001",
+        "_id": 21500,
+        "total_count": 50000000
+    },
+    {
+        "series": "LGR001",
+        "_id": 21600,
+        "total_count": 50000000
+    },
+    {
+        "series": "LNU001",
+        "_id": 22000,
+        "total_count": 50000000
+    },
+    {
+        "series": "LGS001",
+        "_id": 22500,
+        "total_count": 50000000
+    },
+    {
+        "series": "LNV001",
+        "_id": 23000,
+        "total_count": 50000000
+    },
+    {
+        "series": "LQL001",
+        "_id": 23500,
+        "total_count": 50000000
+    },
+    {
+        "series": "LGT001",
+        "_id": 24000,
+        "total_count": 50000000
+    },
+    {
+        "series": "LGU001",
+        "_id": 24300,
+        "total_count": 50000000
+    },
+    {
+        "series": "LGV001",
+        "_id": 24500,
+        "total_count": 50000000
+    },
+    {
+        "series": "LGW001",
+        "_id": 25000,
+        "total_count": 50000000
+    },
+    {
+        "series": "LNW001",
+        "_id": 26000,
+        "total_count": 50000000
+    },
+    {
+        "series": "LRX001",
+        "_id": 26400,
+        "total_count": 50000000
+    },
+    {
+        "series": "LGX001",
+        "_id": 27000,
+        "total_count": 50000000
+    },
+    {
+        "series": "LGY001",
+        "_id": 28000,
+        "total_count": 50000000
+    },
+    {
+        "series": "LNX001",
+        "_id": 29000,
+        "total_count": 50000000
+    },
+    {
+        "series": "LGZ001",
+        "_id": 30000,
+        "total_count": 50000000
+    },
+    {
+        "series": "LNY001",
+        "_id": 31000,
+        "total_count": 25000000
+    },
+    {
+        "series": "LHA001",
+        "_id": 31250,
+        "total_count": 25000000
+    },
+    {
+        "series": "LHB001",
+        "_id": 31500,
+        "total_count": 25000000
+    },
+    {
+        "series": "LHC001",
+        "_id": 32000,
+        "total_count": 25000000
+    },
+    {
+        "series": "LNZ001",
+        "_id": 33000,
+        "total_count": 25000000
+    },
+    {
+        "series": "LOA001",
+        "_id": 34000,
+        "total_count": 25000000
+    },
+    {
+        "series": "LHD001",
+        "_id": 35000,
+        "total_count": 25000000
+    },
+    {
+        "series": "LHE001",
+        "_id": 36000,
+        "total_count": 25000000
+    },
+    {
+        "series": "LOB001",
+        "_id": 37000,
+        "total_count": 25000000
+    },
+    {
+        "series": "LHF001",
+        "_id": 37500,
+        "total_count": 25000000
+    },
+    {
+        "series": "LOC001",
+        "_id": 38000,
+        "total_count": 25000000
+    },
+    {
+        "series": "LOD001",
+        "_id": 39000,
+        "total_count": 25000000
+    },
+    {
+        "series": "LRY001",
+        "_id": 39600,
+        "total_count": 25000000
+    },
+    {
+        "series": "LHG001",
+        "_id": 40000,
+        "total_count": 25000000
+    },
+    {
+        "series": "LHH001",
+        "_id": 40500,
+        "total_count": 25000000
+    },
+    {
+        "series": "LQM001",
+        "_id": 41000,
+        "total_count": 25000000
+    },
+    {
+        "series": "LHI001",
+        "_id": 42000,
+        "total_count": 25000000
+    },
+    {
+        "series": "LQN001",
+        "_id": 43000,
+        "total_count": 25000000
+    },
+    {
+        "series": "LOE001",
+        "_id": 44000,
+        "total_count": 25000000
+    },
+    {
+        "series": "LHJ001",
+        "_id": 45000,
+        "total_count": 25000000
+    },
+    {
+        "series": "LOF001",
+        "_id": 46000,
+        "total_count": 25000000
+    },
+    {
+        "series": "LQO001",
+        "_id": 47000,
+        "total_count": 25000000
+    },
+    {
+        "series": "LHK001",
+        "_id": 48000,
+        "total_count": 25000000
+    },
+    {
+        "series": "LHL001",
+        "_id": 49000,
+        "total_count": 25000000
+    },
+    {
+        "series": "LHM001",
+        "_id": 50000,
+        "total_count": 25000000
+    },
+    {
+        "series": "LOG001",
+        "_id": 52000,
+        "total_count": 20000000
+    },
+    {
+        "series": "LHN001",
+        "_id": 52500,
+        "total_count": 20000000
+    },
+    {
+        "series": "LHO001",
+        "_id": 54000,
+        "total_count": 20000000
+    },
+    {
+        "series": "LHP001",
+        "_id": 56000,
+        "total_count": 20000000
+    },
+    {
+        "series": "LOH001",
+        "_id": 58000,
+        "total_count": 20000000
+    },
+    {
+        "series": "LHQ001",
+        "_id": 60000,
+        "total_count": 20000000
+    },
+    {
+        "series": "LOI001",
+        "_id": 62000,
+        "total_count": 20000000
+    },
+    {
+        "series": "LHR001",
+        "_id": 62500,
+        "total_count": 20000000
+    },
+    {
+        "series": "LHS001",
+        "_id": 63000,
+        "total_count": 20000000
+    },
+    {
+        "series": "LHT001",
+        "_id": 64000,
+        "total_count": 20000000
+    },
+    {
+        "series": "LOJ001",
+        "_id": 66000,
+        "total_count": 20000000
+    },
+    {
+        "series": "LHU001",
+        "_id": 67500,
+        "total_count": 20000000
+    },
+    {
+        "series": "LOK001",
+        "_id": 68000,
+        "total_count": 20000000
+    },
+    {
+        "series": "LHV001",
+        "_id": 70000,
+        "total_count": 20000000
+    },
+    {
+        "series": "LHW001",
+        "_id": 72000,
+        "total_count": 20000000
+    },
+    {
+        "series": "LOL001",
+        "_id": 74000,
+        "total_count": 20000000
+    },
+    {
+        "series": "LHX001",
+        "_id": 75000,
+        "total_count": 20000000
+    },
+    {
+        "series": "LOM001",
+        "_id": 76000,
+        "total_count": 20000000
+    },
+    {
+        "series": "LON001",
+        "_id": 78000,
+        "total_count": 20000000
+    },
+    {
+        "series": "LHY001",
+        "_id": 80000,
+        "total_count": 20000000
+    },
+    {
+        "series": "LHZ001",
+        "_id": 81000,
+        "total_count": 10000000
+    },
+    {
+        "series": "LQP001",
+        "_id": 82000,
+        "total_count": 10000000
+    },
+    {
+        "series": "LIA001",
+        "_id": 84000,
+        "total_count": 10000000
+    },
+    {
+        "series": "LQQ001",
+        "_id": 86000,
+        "total_count": 10000000
+    },
+    {
+        "series": "LIB001",
+        "_id": 87500,
+        "total_count": 10000000
+    },
+    {
+        "series": "LQR001",
+        "_id": 88000,
+        "total_count": 10000000
+    },
+    {
+        "series": "LIC001",
+        "_id": 90000,
+        "total_count": 10000000
+    },
+    {
+        "series": "LQS001",
+        "_id": 92000,
+        "total_count": 10000000
+    },
+    {
+        "series": "LQT001",
+        "_id": 94000,
+        "total_count": 10000000
+    },
+    {
+        "series": "LRD001",
+        "_id": 94500,
+        "total_count": 10000000
+    },
+    {
+        "series": "LID001",
+        "_id": 96000,
+        "total_count": 10000000
+    },
+    {
+        "series": "LQU001",
+        "_id": 98000,
+        "total_count": 1000000
+    },
+    {
+        "series": "LIE001",
+        "_id": 100000,
+        "total_count": 1000000
+    },
+    {
+        "series": "LIF001",
+        "_id": 105000,
+        "total_count": 1000000
+    },
+    {
+        "series": "LIG001",
+        "_id": 108000,
+        "total_count": 1000000
+    },
+    {
+        "series": "LIH001",
+        "_id": 112500,
+        "total_count": 1000000
+    },
+    {
+        "series": "LII001",
+        "_id": 120000,
+        "total_count": 1000000
+    },
+    {
+        "series": "LRE001",
+        "_id": 125000,
+        "total_count": 1000000
+    },
+    {
+        "series": "LRF001",
+        "_id": 126000,
+        "total_count": 1000000
+    },
+    {
+        "series": "LIN001",
+        "_id": 150000,
+        "total_count": 1000000
+    },
+    {
+        "series": "LRH001",
+        "_id": 162000,
+        "total_count": 1000000
+    },
+    {
+        "series": "LRI001",
+        "_id": 180000,
+        "total_count": 1000000
+    },
+    {
+        "series": "LRJ001",
+        "_id": 200000,
+        "total_count": 1000000
+    },
+    {
+        "series": "LRK001",
+        "_id": 210000,
+        "total_count": 1000000
+    },
+    {
+        "series": "LRL001",
+        "_id": 216000,
+        "total_count": 1000000
+    },
+    {
+        "series": "LRM001",
+        "_id": 225000,
+        "total_count": 1000000
+    },
+    {
+        "series": "LRN001",
+        "_id": 250000,
+        "total_count": 1000000
+    },
+    {
+        "series": "LRO001",
+        "_id": 270000,
+        "total_count": 1000000
+    },
+    {
+        "series": "LRP001",
+        "_id": 294000,
+        "total_count": 1000000
+    },
+    {
+        "series": "LRQ001",
+        "_id": 360000,
+        "total_count": 1000000
+    },
+    {
+        "series": "LRR001",
+        "_id": 400000,
+        "total_count": 1000000
+    },
+    {
+        "series": "LRS001",
+        "_id": 450000,
+        "total_count": 1000000
+    }
+]

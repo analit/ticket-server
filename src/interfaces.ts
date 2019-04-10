@@ -1,7 +1,7 @@
 interface IRequestBody {
     jsonrpc: string,
     method: string,
-    id: string,
+    id: number,
     params: {
         SessionId: string,
         RoundId: number,
@@ -17,12 +17,18 @@ interface IRequestBody {
 
 interface IResponseBody {
     jsonrpc: string,
-    id: string,
+    id: number,
     result: {
         Status: string,
-        RoundId: string,
+        RoundId: number,
         TicketId?: string
     }
 }
 
-export { IRequestBody, IResponseBody }
+interface IResponseError {
+    id: number,
+    error: { code: number, message: string },
+    jsonrpc: string
+}
+
+export { IRequestBody, IResponseBody, IResponseError }

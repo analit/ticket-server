@@ -1,4 +1,6 @@
-export const ticketStatus: { [key: string]: string } = {
+const ticketStatus = {
     NEW: "new",
     EXISTED: "existed"
 }
+
+export {ticketStatus}
