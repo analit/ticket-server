@@ -2,7 +2,7 @@ import winston from "winston";
 import { format } from "winston";
 
 const { combine, timestamp, printf } = format;
-//
+
 const myFormat = printf( ({ level, message, timestamp }) => {
     return `${timestamp}: ${level}: ${message}`;
 } );
@@ -14,7 +14,7 @@ const logger = winston.createLogger( {
         myFormat
     ),
     transports: [
-        new (winston.transports.File)( { filename: 'log/champ.log' } )
+        new (winston.transports.File)( { filename: './log/champ.log' } )
     ]
 } )
 

@@ -21,7 +21,10 @@ export const cache = (req: Request, res: Response, next: NextFunction): void => 
     } );
 }
 
-export const existed = (req: Request, res: Response, next: NextFunction): void => {
+export const
+
+
+    existed = (req: Request, res: Response, next: NextFunction): void => {
 
     const requestBody = <IRequestBody>req.body;
 

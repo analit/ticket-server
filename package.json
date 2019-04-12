@@ -4,6 +4,7 @@
   "description": "",
   "scripts": {
     "test": "node_modules/jest/bin/jest.js --forceExit",
+    "test-load": "node_modules/loadtest/bin/loadtest.js -n 100000 -T application/json -p test/loadtes.js http://localhost:3000",
     "build": "tsc",
     "dev": "ts-node ./src/server.ts",
     "prod": "node ./dist/server.js"
@@ -28,6 +29,7 @@
     "@types/uuid": "^3.4.4",
     "chai": "^4.2.0",
     "jest": "^24.7.1",
+    "loadtest": "^3.0.7",
     "supertest": "^4.0.2",
     "ts-jest": "^24.0.2",
     "typescript": "^3.4.1"
