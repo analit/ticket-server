@@ -84,26 +84,30 @@ exports.newTicket = (req, res, next) => {
         });
     })
         .catch((err) => next(err));
-    // Series.findById(bet, (err: any, series: SeriesModel) => {
-    //     if (err) {
-    //         return next(err);
-    //     }
-    //     if (!series) {
-    //         const message: string = `Series for ${bet} not found!`;
-    //         return next(new Error(message));
-    //     }
-    //     const ticket = createNewTicket(requestBody, generateTicketNumber(series.series));
-    //     const responseBody = createSuccessResponse(ticketStatus.NEW, ticket);
-    //     ticket.cache = JSON.stringify(responseBody);
-    //     ticket.save({}, (err: any, ticket: TicketModel) => {
-    //         if (err) {
-    //             // console.log( err );
-    //             next(err);
-    //         }
-    //         logger.info("[RESPONSE]" + JSON.stringify(responseBody));
-    //         res.json(responseBody);
-    //     })
-    // });
+};
+exports.newTicketOld = (req, res, next) => {
+    const requestBody = req.body;
+    const bet = requestBody.params.Ticket.Bet;
+    series_1.default.findById(bet, (err, series) => {
+        if (err) {
+            return next(err);
+        }
+        if (!series) {
+            const message = `Series for ${bet} not found!`;
+            return next(new Error(message));
+        }
+        const ticket = createNewTicket(requestBody, generateTicketNumber(series.series));
+        const responseBody = createSuccessResponse(constants_1.ticketStatus.NEW, ticket);
+        ticket.cache = JSON.stringify(responseBody);
+        ticket.save({}, (err, ticket) => {
+            if (err) {
+                // console.log( err );
+                next(err);
+            }
+            logger_1.default.info("[RESPONSE]" + JSON.stringify(responseBody));
+            res.json(responseBody);
+        });
+    });
 };
 function createSuccessResponse(status, ticket) {
     return {
