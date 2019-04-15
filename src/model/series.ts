@@ -9,6 +9,9 @@ const seriesSchema = new mongoose.Schema({
 
 export type SeriesModel = mongoose.Document & {
     series: string
+    getType(): string
 }
+
+seriesSchema.methods.getType = (): string => "Series";
 
 export default mongoose.model("Series", seriesSchema);

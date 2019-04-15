@@ -33,6 +33,7 @@ it( "POST / - response error", (done) => {
         .send( bodyIt )
         .expect( 200 )
         .end( function (err, res) {
+            console.log(res.body);
             if (err) return done( err );
             expect( res.body.error ).to.not.be.undefined;
             expect( res.body.error.message ).to.equal( 'Series for 502 not found!' );

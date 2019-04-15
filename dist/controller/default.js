@@ -5,6 +5,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 const ticket_1 = __importDefault(require("../model/ticket"));
 const series_1 = __importDefault(require("../model/series"));
+const prefix_1 = __importDefault(require("../model/prefix"));
 const constants_1 = require("../constants");
 const logger_1 = __importDefault(require("../util/logger"));
 exports.test = (req, res) => {
@@ -52,14 +53,24 @@ exports.existed = (req, res, next) => {
 exports.newTicket = (req, res, next) => {
     const requestBody = req.body;
     const bet = requestBody.params.Ticket.Bet;
-    series_1.default.findById(bet, (err, series) => {
-        if (err) {
-            return next(err);
+    series_1.default.findById(bet)
+        .then((series) => {
+        if (series) {
+            return series;
         }
-        if (!series) {
-            const message = `Series for ${bet} not found!`;
-            return next(new Error(message));
+        return prefix_1.default.findOneAndDelete();
+    })
+        .then((result) => {
+        if (!result) {
+            throw new Error(`Series for ${bet} not found!`);
         }
+        if (result.getType() == "Prefix") {
+            const newSeries = new series_1.default({ _id: bet, series: result._id });
+            return newSeries.save();
+        }
+        return result;
+    })
+        .then((series) => {
         const ticket = createNewTicket(requestBody, generateTicketNumber(series.series));
         const responseBody = createSuccessResponse(constants_1.ticketStatus.NEW, ticket);
         ticket.cache = JSON.stringify(responseBody);
@@ -71,7 +82,28 @@ exports.newTicket = (req, res, next) => {
             logger_1.default.info("[RESPONSE]" + JSON.stringify(responseBody));
             res.json(responseBody);
         });
-    });
+    })
+        .catch((err) => next(err));
+    // Series.findById(bet, (err: any, series: SeriesModel) => {
+    //     if (err) {
+    //         return next(err);
+    //     }
+    //     if (!series) {
+    //         const message: string = `Series for ${bet} not found!`;
+    //         return next(new Error(message));
+    //     }
+    //     const ticket = createNewTicket(requestBody, generateTicketNumber(series.series));
+    //     const responseBody = createSuccessResponse(ticketStatus.NEW, ticket);
+    //     ticket.cache = JSON.stringify(responseBody);
+    //     ticket.save({}, (err: any, ticket: TicketModel) => {
+    //         if (err) {
+    //             // console.log( err );
+    //             next(err);
+    //         }
+    //         logger.info("[RESPONSE]" + JSON.stringify(responseBody));
+    //         res.json(responseBody);
+    //     })
+    // });
 };
 function createSuccessResponse(status, ticket) {
     return {
@@ -95,6 +127,14 @@ function createNewTicket(requestBody, number) {
         win: requestBody.params.Ticket.Win
     });
 }
+/**
+ * Ex. LDR001960962533453, LCZ001579029372012, LCN001924731796542
+ * where prefix - LDR001, LCZ001, LCN001
+ * unique - 960962533453, 579029372012, 924731796542 (12-digits)
+ * @param prefix
+ */
 function generateTicketNumber(prefix) {
-    return (prefix + `f${(+new Date).toString(16)}`).toUpperCase();
+    let start = Math.random().toString().substring(2, 6);
+    let end = Date.now().toString().substring(5);
+    return prefix + start + end;
 }

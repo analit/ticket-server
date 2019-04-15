@@ -13,4 +13,5 @@ const seriesSchema = new mongoose.Schema({
     series: String,
     total_count: Number
 });
+seriesSchema.methods.getType = () => "Series";
 exports.default = mongoose.model("Series", seriesSchema);
